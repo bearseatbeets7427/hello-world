@@ -1,2 +1,5 @@
 # hello-world
-Your average repository
+
+Just your average repository
+
+Bears, beets, Battlestar Galactica
